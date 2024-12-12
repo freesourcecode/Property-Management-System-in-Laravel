@@ -34,7 +34,7 @@ Go to the project folder directory then type CMD to open the command prompt.
 
 After you finish installing the composer and the Laravel. now type "composer install" in your command prompt to install the composer dependencies.
 
-6.**php artisan key:generate**
+6. **php artisan key:generate**
 
 Next, then type “php artisan key:generate ” in your command prompt. A command that sets the APP_KEY value in your . env file. By default, Run the following command to have the database tables migrated for you so that you can begin using the system.
 
