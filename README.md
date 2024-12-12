@@ -10,7 +10,7 @@ The difficulty with a static website is that you have to change and update the c
 
 This method can only be used by people who are familiar with coding and programming. Given this situation, the organization opted to upgrade its current system.
 
-## How to Run the  Property Management System in Laravel?
+## How to Run the Property Management System in Laravel?
  
 Here are the steps on how to run the **Laravel Property Management System Project with Source Code**.
 
@@ -26,7 +26,7 @@ Next, Copy the destination folder to the xampp/htdocs folder.
 
 You need to install first the Composer and the Laravel libraries.
 
-4. Open Command Prompt
+4. **Open Command Prompt**
 
 Go to the project folder directory then type CMD to open the command prompt.
 
@@ -40,12 +40,9 @@ Next, then type “php artisan key:generate ” in your command prompt. A comman
 
 7. **Create Database**
 
-To install and run the application correctly. 
-
-Simply go to phpmyadmin and make a new database.
+To install and run the application correctly. Simply go to phpmyadmin and make a new database.
 
 After that, "Be" and rename it to ".env", then go to connection and modify the default database connection name, only database connection, database username, and password.
-
 
 8. **php artisan migrate**
 
@@ -60,15 +57,6 @@ The purpose of using PHP artisan serve (PHP built-in server) is just for testing
 10. **Copy "http://127.0.0.1:8000/"**
 
 In your browser, type the following code to access your project dashboard.
-
-11. **Download the Source Code**.
-
-Finally, You are free to download the downloadable source code given below.
-
-## Here are some output images of the system:
-
-https://itsourcecode.com/wp-content/uploads/2021/10/image-5.png
-
 
 ### 📌 The full documentation for the Property Management System Project is available at: ⬇️⬇️⬇️
 
